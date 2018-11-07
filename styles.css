@@ -1,3 +1,11 @@
+html {background-color: yellow;
+}
 h1 {color: red;
 font-family: 'Pattaya', sans-serif;
+}
+p {font-family: 'Anton', sans-serif;
+}
+h2 {font-family: 'Lobster', cursive;
+}
+h3 {font-family: 'Acme', sans-serif;
 }
